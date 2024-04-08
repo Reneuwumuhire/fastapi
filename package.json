@@ -16,6 +16,7 @@
 		"class-variance-authority": "^0.7.0",
 		"clsx": "^2.1.0",
 		"cmdk": "^1.0.0",
+		"esbuild": "0.19.12",
 		"hono": "^4.2.2",
 		"next": "14.1.4",
 		"react": "^18",

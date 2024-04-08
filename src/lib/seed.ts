@@ -1,8 +1,8 @@
 import { Redis } from "@upstash/redis";
 
 const redis = new Redis({
-	url: "https://fluent-viper-47980.upstash.io",
-	token: "AbtsASQgMWI0MTM4NjgtODcxNS00ZTUwLWE2ZDYtOWZmMTZjYmM0MWYwY2ZkNWYxNGQ3NzA5NDI4YTkxMWExZWVlYzNiODc4MzI=",
+	url: "https://daring-octopus-49040.upstash.io",
+	token: "Ab-QASQgYzQzOTczMDEtMTI3ZC00NDFiLWI0OTItMGM4YjBhNjJiMzUzMmY1MDZhMDE1YjZkNDllZjhmNTQ3YmEyMWI1NjQxYTE=",
 });
 
 const countryList = [
